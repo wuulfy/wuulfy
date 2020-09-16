@@ -1,4 +1,4 @@
-# Hi! I'm Wuulfy! (he/they). Welcome to my GitHub profile!
+# Hi! I'm Wuulfy (he/they)! Welcome to my GitHub profile!
 
 ### About me
  - 🗓️ I'm 14 years old
