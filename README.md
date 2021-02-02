@@ -4,10 +4,9 @@
 <h1 align="center">Hi, I'm wuulfy!</h1><br>
 <h2 align="center">I'm a hobbyist motion/graphic designer and programmer.</h2><br>
 <h3> 
- - 🗓️ I'm 14 years old
- - 🧠 I know HTML, CSS and JavaScript
- - ➡ Social Media: https://wulfyy.com/yt | https://wulfyy.com/twitter | https://www.instagram.com/_wuulfy/
- - 🌐 https://wulfyy.com to find my projects, portfolio and other stuff!</h3>
+ - 🗓️ I'm a 14 year old freelancer from the United Kingdom<br>
+ - 🧠 I know HTML, CSS, Javascript and C#<br>
+ - 🌐 https://wulfyy.com to find my projects, portfolio and other stuff!</h3><br>
 <hr>
 
 <h3 align="center">What I know:</h3><br>
