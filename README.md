@@ -1,9 +1,37 @@
-# Hi! I'm Wuulfy (he/they)! Welcome to my GitHub profile!
-
-### About me
+<p align="center">
+  <img width="25%" alt="wuulfy logo" src="https://wulfyy.com/logos/logo.png">
+</p>
+<h1 align="center">Hi, I'm wuulfy!</h1><br>
+<h2 align="center">I'm a hobbyist motion/graphic designer and programmer.</h2><br>
+<h3> 
  - 🗓️ I'm 14 years old
  - 🧠 I know HTML, CSS and JavaScript
  - ➡ Social Media: https://wulfyy.com/yt | https://wulfyy.com/twitter | https://www.instagram.com/_wuulfy/
- - 🌐 https://wulfyy.com to find my projects, portfolio and other stuff!
- 
-Currently hoping to improve at JS and delve into developing with C and C++
+ - 🌐 https://wulfyy.com to find my projects, portfolio and other stuff!</h3>
+<hr>
+
+<h3 align="center">What I know:</h3><br>
+
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
+</p>
+
+<h3 align="center">What I use:</h3><br>
+
+<p align="center">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-16162d?style=flat&logo=linux">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-16162d?style=flat&logo=ubuntu">
+  <img alt="OpenSUSE" src="https://img.shields.io/badge/-OpenSUSE-16162d?style=flat&logo=opensuse">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-16162d?style=flat&logo=windows">
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-16162d?style=flat&logo=visual-studio-code">
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-16162d?style=flat&logo=unity">
+  <img alt="Paint.net" src="https://img.shields.io/badge/-Paint.net-16162d?">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-16162d?style=flat&logo=adobe-photoshop">
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe After Effects-16162d?style=flat&logo=adobe-after-effects">
+  <img alt="Adobe Media Encoder" src="https://img.shields.io/badge/-Adobe Media Encoder-16162d?style=flat&logo=adobe-media-encoder">
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-16162d?style=flat&logo=blender">
+  <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-16162d?style=flat&logo=audacity">
+</p><br>
