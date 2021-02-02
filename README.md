@@ -12,10 +12,10 @@
 <h3 align="center">What I know:</h3><br>
 
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-16162d?style=flat&logo=html5">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-16162d?style=flat&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-16162d?style=flat&logo=javascript">
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-16162d?style=flat&logo=c-sharp">
 </p>
 
 <h3 align="center">What I use:</h3><br>
