@@ -1,7 +1,7 @@
 <p align="center">
   <img width="25%" alt="wuulfy logo" src="https://wulfyy.com/logos/logo.png">
 </p>
-<h1 align="center">Hi, I'm wuulfy!</h1><br>
+<h1 align="center">Hi, I'm wuulfy!</h1>
 <h2 align="center">I'm a hobbyist motion/graphic designer and programmer.</h2><br>
 <h3> 
  - 🗓️ I'm a 14 year old freelancer from the United Kingdom<br>
