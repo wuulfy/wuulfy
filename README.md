@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hi, I'm wuulfy! I'm a hobbyist motion/graphic designer and musician</h2><br>
 <h3> 
- - 🗓️ I'm a 14 year old freelancer from the United Kingdom<br>
+ - 🗓️ I'm a 15 year old freelancer from the United Kingdom<br>
  - 🧠 I know HTML, CSS and Javascript<br>
  - 🌐 https://wulfyy.com to find my projects, portfolio and other stuff!</h3><br>
 <hr>
