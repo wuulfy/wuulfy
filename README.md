@@ -1,4 +1,4 @@
-<h2>Hey, I'm wuulfy</h2><br>
+<h2>Hey, I'm wuulfy</h2>
 <h3> 💥 hi </h3>
 <!--<h3 align="center">Langs:</h3>
 <p align="center">
