@@ -1,5 +1,5 @@
 <h2>Hey, I'm wuulfy</h2>
-<h3> 💥 hi </h3>
+<h3>Messing with millions of pixels! - I'm a UK based graphic/motion designer but I do a little development on the side</h3>
 <!--<h3 align="center">Langs:</h3>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-16162d?style=flat&logo=html5">
