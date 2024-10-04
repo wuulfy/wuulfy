@@ -1,4 +1,4 @@
-<h2>Hey I’m Tyler Miller!</h2>
+<h2>Hey I’m Tyler!</h2>
 <h3>A motion & graphic designer from the UK. I love to create work for passionate folks wanting to breathe visual life into their projects!</h3>
 <!--<h3 align="center">Langs:</h3>
 <p align="center">
